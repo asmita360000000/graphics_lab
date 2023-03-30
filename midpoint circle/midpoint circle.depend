@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674457636 source:c:\users\dell\documents\midpoint circle\main.cpp
+	<iostream>
+	<graphics.h>
+
